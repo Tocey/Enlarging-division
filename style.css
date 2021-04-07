@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  text-align: center;
+  align-items: center;
+  margin: 10px 0;
+}
+select {
+  font-size: 22px;
+  padding: 10px;
+  outline: none;
+  border-radius: 20px;
+}
+
+div {
+  align-items: center;
+  margin: 0 auto;
+  border-radius: 10px;
+  border: 0.5px solid #333;
+}
+#set {
+  font-size: 15px;
+  padding: 10px;
+  margin: 0 auto;
+  color: red;
+  border-radius: 50%;
+  outline: none;
+  font-size: large;
+}
